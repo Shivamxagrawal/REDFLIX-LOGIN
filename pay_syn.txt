@@ -1,0 +1,3 @@
+create table pay( Name varchar(100),Card_no varchar(50),Pack varchar(50));
+
+create table subscriber( Email_id varchar(100),phone_no varchar(11),password varchar(20));
